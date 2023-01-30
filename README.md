@@ -1,1 +1,2 @@
 # Bike-Sales
+This project in Excel provides insights into bike sales by analyzing customer data on average income per customer, customer age, and customer commute. The data was cleaned, organized, and analyzed using pivot tables, charts, filters, and slicers to create a clear visual representation of the information. This project provides valuable insights and demonstrates the power of Excel in analyzing and presenting  data in a meaningful way. This project would be useful for anyone looking to understand customer behavior and make informed decisions based on data analysis.
